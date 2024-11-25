@@ -24,7 +24,7 @@ With expertise in JWT-based authentication and role-based access, I ensure appli
 
 Here's what I use to bring ideas to life:  
 
-- **Frontend:** JavaScript, React, Material-UI, Ant Design  
+- **Frontend:** JavaScript, React, Next, Material-UI, Ant Design  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** JSON files, SQL, PostgreSQL  
 - **Others:** Redux, JWT, Fetch API  
